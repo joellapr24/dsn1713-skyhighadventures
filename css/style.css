@@ -1,0 +1,14 @@
+.navbar {
+  background: linear-gradient(to right, #01b156, #00ff91);
+}
+
+.navbar-brand span {
+  color: rgb(0, 0, 0);
+  font-size: 1.2rem;
+}
+
+.nav-link {
+  color: rgb(1, 68, 33);
+  margin: 0 8px;
+  font-weight: 500;
+}
