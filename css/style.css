@@ -1,14 +1,34 @@
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+.display-1 {
+  font-weight: 500;
+}
+
 .navbar {
-  background: linear-gradient(to right, #01b156, #00ff91);
+  background: linear-gradient(to right, #01c8ff, #016172);
 }
 
 .navbar-brand span {
-  color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
   font-size: 1.2rem;
 }
 
 .nav-link {
-  color: rgb(1, 68, 33);
+  color: rgb(255, 255, 255);
   margin: 0 8px;
   font-weight: 500;
+}
+
+#hero {
+  background-image: url('../images/pexels-daniel-reche-718241-1556664.jpg');
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: black;
+}
+
+.d-flex {
+  height: 70vh;
 }
