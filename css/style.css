@@ -2,12 +2,8 @@ body {
   font-family: 'Poppins', sans-serif;
 }
 
-.display-1 {
-  font-weight: 500;
-}
-
 .navbar {
-  background: linear-gradient(to right, #01c8ff, #016172);
+  background: linear-gradient(to right, #014d62, #01cef2);
 }
 
 .navbar-brand span {
@@ -31,4 +27,16 @@ body {
 
 .d-flex {
   height: 70vh;
+}
+
+.display-1 {
+  font-weight: 500;
+}
+
+.navbar {
+  color: blue;
+}
+
+.navbar-brand {
+  color: aliceblue;
 }
