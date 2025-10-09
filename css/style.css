@@ -3,7 +3,7 @@ body {
 }
 
 .navbar {
-  background: linear-gradient(to right, #014d62, #01cef2);
+  background: linear-gradient(to right, #1b3966, #78afe9);
 }
 
 .navbar-brand {
@@ -22,7 +22,7 @@ body {
 }
 
 #hero {
-  background-image: url('../images/pexels-daniel-reche-718241-1556664.jpg');
+  background-image: url('../images/pexels-quang-nguyen-vinh-222549-2162670.jpg');
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -34,7 +34,10 @@ body {
 }
 
 .display-1 {
-  font-weight: 500;
+  font-weight: 700;
 }
 
-
+.lead {
+  font-weight: 500;
+  text-shadow:#014d62
+}
